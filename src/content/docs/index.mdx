@@ -1,0 +1,90 @@
+---
+title: 游戏王黑话
+description: Get started building your docs site with Starlight.
+# template: splash
+hero:
+  tagline: 游戏王玩家每日使用的词汇
+  image:
+    file: ../../assets/images/20240122-01.avif
+#   actions:
+#     - text: 我想了解游戏王基础
+#       link: /基础篇/场地/简介/
+#       icon: right-arrow
+#       variant: primary
+#     - text: 我玩过游戏王
+#       link: /abbr/卡牌名称/灰流丽/
+#       icon: right-arrow
+---
+
+import { Card, CardGrid,LinkCard } from '@astrojs/starlight/components';
+
+### 目录
+
+#### 基础篇
+	<LinkCard 
+		title="基础规则"  
+		href="/基础篇/场地/简介/"
+		description="适合初次了解，或者多年没玩游戏王的玩家"
+	/>
+
+#### 进阶篇
+	##### 常见缩写
+	<CardGrid >
+		<LinkCard 
+			title="卡牌缩写" 
+			href="/abbr/卡牌名称/灰流丽/"
+			description="一些常见卡牌（灰、G...）的缩写"
+		/>
+		<LinkCard 
+			title="效果缩写" 
+			href="/abbr/卡牌效果/擦/"
+			description="一些常见卡牌效果（康、擦、弹...）的缩写"
+		/>
+	</CardGrid>
+---
+	##### 怪兽
+	<CardGrid >
+		<LinkCard 
+			title="抗性" 
+			href="/怪兽/抗性/全抗"
+			description="全抗、伪全抗、威风抗性..."
+		/>
+		<LinkCard 
+			title="怪兽效果" 
+			href="/怪兽/效果类型/永续效果"
+			description="永续、诱发、诱发即时"
+		/>
+		<LinkCard 
+			title="召唤怪兽的方式" 
+			href="/怪兽/召唤方式/加速同调"
+			description="通招、加速同调、接触融合..."
+		/>
+		<LinkCard 
+			title="怪兽种类" 
+			href="/怪兽/种类/连接怪兽"
+			description="连接怪兽、token、协调..."
+		/>
+	</CardGrid>
+
+---
+
+	##### 卡组
+	<CardGrid >
+		<LinkCard 
+			title="卡组构筑" 
+			href="/卡组/构筑/魂"
+			description="魂、beat、爆展..."
+		/>
+		<LinkCard 
+			title="卡组归类" 
+			href="/卡组/归类/饼图"
+			description="饼图、主流、others"
+		/>
+	</CardGrid>
+
+#### 高级篇
+	<LinkCard 
+		title="规则相关" 
+		href="/规则/里侧表示"
+		description="cost、连锁、苏生限制..."
+	/>
