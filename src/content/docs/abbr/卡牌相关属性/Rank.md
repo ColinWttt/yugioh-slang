@@ -1,6 +1,8 @@
 ---
-title: R
-description: A 
+title: Rank
+description: 游戏王黑话——Rank 
+sidebar:
+    badge: R
 ---
 
 ## 含义

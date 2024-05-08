@@ -1,6 +1,8 @@
 ---
-title: S
-description: A 
+title: Synchro
+description: 游戏王黑话——Synchro
+sidebar:
+    badge: S
 ---
 
 ## 含义
