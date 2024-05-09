@@ -11,7 +11,6 @@ export default defineConfig({
       plugins: [starlightLinksValidator()],
       title: "游戏王黑话文档",
       editLink: {
-        // baseUrl: https://github.com/USER_NAME/REPO_NAME/edit/BRANCH_NAME/
         baseUrl: "https://github.com/ColinWttt/yugioh-slang/edit/main/",
       },
       tableOfContents: false,
@@ -27,7 +26,7 @@ export default defineConfig({
       sidebar: [
         {
           label: "基础篇",
-          autogenerate: { directory: "基础篇", collapsed: true  },
+          autogenerate: { directory: "基础篇", collapsed: true },
         },
         {
           label: "怪兽",
