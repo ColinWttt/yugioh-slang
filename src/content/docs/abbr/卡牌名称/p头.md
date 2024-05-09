@@ -1,16 +1,16 @@
 ---
 title: 精神骨架装备 伽马
-description: A guide in my new Starlight docs site.
+description: 游戏王黑话——p头
 sidebar:
     badge: p头
 ---
 
 ## 含义
 
-怪兽卡：精神骨架装备 伽马 （民间翻译：PSY骨架装备·γ）的俗称。
+**p头**：怪兽卡 **“精神骨架装备 伽马”** （民间翻译：PSY骨架装备·γ）。
 
 ## 相关词语
 
 ### `p身/身子`  
 
-怪兽卡——精神骨架 驱动者（民间翻译：PSY骨架驱动者）的俗称。
+怪兽卡 **“精神骨架 驱动者”**（民间翻译：PSY骨架驱动者）。

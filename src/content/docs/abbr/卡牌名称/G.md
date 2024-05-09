@@ -1,6 +1,6 @@
 ---
 title: 增殖的Z
-description: A guide in my new Starlight docs site.
+description: 游戏王黑话——G
 sidebar:
     badge: G
     order: 2
@@ -8,9 +8,9 @@ sidebar:
 
 ## 含义
 
-卡牌：**増殖するG**（简中：**增殖的Z**）的简称
+**G**：怪兽卡 **“增殖的Z”**（日文：**増殖するG**）。
 
-卡图为蟑螂躲藏在柜子中间，有时也被戏称为“蟑螂”
+因卡图为蟑螂躲藏在柜子中间，有时也被戏称为“蟑螂”
 
 ## 相关词语
 
@@ -20,3 +20,4 @@ sidebar:
 
 :::caution[增殖的G vs 增殖的Z]
 增殖的G并不是官方的翻译，在正式场合（例如填写参赛卡表），需要使用增殖的Z/増殖するG。
+:::
