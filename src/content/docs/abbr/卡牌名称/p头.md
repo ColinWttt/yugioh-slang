@@ -3,6 +3,7 @@ title: 精神骨架装备 伽马
 description: 游戏王黑话——p头
 sidebar:
     badge: p头
+    order: 7
 ---
 
 ## 含义
