@@ -68,6 +68,22 @@ import { Card, CardGrid,LinkCard } from '@astrojs/starlight/components';
 
 ---
 
+	##### 卡牌
+	<CardGrid >
+		<LinkCard 
+			title="代称" 
+			href="/卡牌/代称/小蓝"
+			description="魂、beat、爆展..."
+		/>
+		<LinkCard 
+			title="相关数据" 
+			href="/卡牌/相关数据/超量素材"
+			description="超量素材、〇〇指示器..."
+		/>
+	</CardGrid>
+
+---
+
 	##### 卡组
 	<CardGrid >
 		<LinkCard 
@@ -80,6 +96,11 @@ import { Card, CardGrid,LinkCard } from '@astrojs/starlight/components';
 			href="/卡组/归类/饼图"
 			description="饼图、主流、others"
 		/>
+		{/* <LinkCard 
+			title="卡组描述" 
+			href="/卡组/描述/动点"
+			description="动点、补点、"
+		/> */}
 	</CardGrid>
 
 #### 高级篇

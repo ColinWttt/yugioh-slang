@@ -37,6 +37,10 @@ export default defineConfig({
           autogenerate: { directory: "abbr", collapsed: true },
         },
         {
+          label: "卡牌",
+          autogenerate: { directory: "卡牌", collapsed: true },
+        },
+        {
           label: "卡组",
           autogenerate: { directory: "卡组", collapsed: true },
         },
