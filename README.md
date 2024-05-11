@@ -1,15 +1,33 @@
 # 游戏王黑话文档
 
-```
-bun install
-```
-
-```
-bun dev
-```
+游戏王玩家每日都会使用的词汇。
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ColinWttt/yugioh-slang/tree/main)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/ColinWttt/yugioh-slang/tree/main)
+
+## 如何使用
+
+1. [fork](https://github.com/ColinWttt/yugioh-slang/fork)或clone当前repo
+
+   ```bash
+   git clone https://github.com/colinwttt/yugioh-slang.git
+   cd yugioh-slang
+   ```
+
+2. 安装[bun](https://bun.sh/)
+3. 安装依赖项
+
+    ```bash
+    bun install
+    ```
+
+4. 启动本地服务器
+
+    ```bash
+    bun dev
+    ```
+
+
 
 ## 🚀 项目结构
 
@@ -37,12 +55,12 @@ bun dev
 
 所有命令都是从项目的根目录，在终端中运行的：:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `bun install`             | 安装依赖包                                         |
-| `bun dev`                 | 在 `localhost:4322` 上启动本地开发服务器             |
-| `bun run build`           | 将您的生产站点构建到 `./dist/` 目录下                 |
-| `bun run preview`         | 在部署之前在本地预览您的构建     |
+| Command           | Action                                   |
+| :---------------- | :--------------------------------------- |
+| `bun install`     | 安装依赖包                               |
+| `bun dev`         | 在 `localhost:4322` 上启动本地开发服务器 |
+| `bun run build`   | 将您的生产站点构建到 `./dist/` 目录下    |
+| `bun run preview` | 在部署之前在本地预览您的构建             |
 
 ## 关于Starlight框架
 
