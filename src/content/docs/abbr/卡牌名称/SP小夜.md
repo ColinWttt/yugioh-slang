@@ -1,9 +1,9 @@
 ---
-title: 	S：P小夜骑士
+title: S：P小夜骑士
 description: 游戏王黑话——小夜
 sidebar:
     badge: 小夜
-    order: 23
+    order: 24
 ---
 
 ## 含义
