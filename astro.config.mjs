@@ -6,6 +6,7 @@ import starlightLinksValidator from "starlight-links-validator";
 export default defineConfig({
   server: { port: 4322 },
   site: "https://heihua.yadaze.com",
+  prefetch: true
   integrations: [
     starlight({
       plugins: [starlightLinksValidator()],
