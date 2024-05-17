@@ -11,10 +11,12 @@ export default defineConfig({
     starlight({
       plugins: [starlightLinksValidator()],
       title: "游戏王黑话文档",
+      description: "游戏王黑话文档，游戏王玩家每日使用的词汇和梗",
       editLink: {
         baseUrl: "https://github.com/ColinWttt/yugioh-slang/edit/main/",
       },
       tableOfContents: false,
+      lastUpdated: true,
       locales: {
         root: {
           label: "简体中文",
