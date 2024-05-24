@@ -1,6 +1,6 @@
 ---
 title: TCG
-description: A guide in my new Starlight docs site.
+description: 游戏王黑话 —— TCG
 sidebar:
     order: 4
 ---

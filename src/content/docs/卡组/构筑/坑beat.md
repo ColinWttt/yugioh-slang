@@ -1,5 +1,5 @@
 ---
 title: 坑beat
-description: A guide in my new Starlight docs site.
+description: 游戏王黑话 —— 坑beat
 draft: true
 ---

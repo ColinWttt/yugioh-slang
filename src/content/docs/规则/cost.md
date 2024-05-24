@@ -1,6 +1,6 @@
 ---
 title: cost
-description: A guide in my new Starlight docs site.
+description: 游戏王黑话 —— cost、代价
 ---
 
 >基本上，cost是效果发动时需要支付的代价。  
