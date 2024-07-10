@@ -11,8 +11,8 @@
     "bump": "bunx @astrojs/upgrade"
   },
   "dependencies": {
-    "@astrojs/check": "0.7.0",
-    "@astrojs/starlight": "0.25.0",
+    "@astrojs/check": "0.8.1",
+    "@astrojs/starlight": "0.25.1",
     "astro": "4.11.5",
     "sharp": "^0.33.4",
     "starlight-links-validator": "^0.9.1",
