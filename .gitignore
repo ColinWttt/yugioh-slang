@@ -20,10 +20,8 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-# 除了bun的包管理
 yarn.lock
 package-lock.json
-pnpm-lock.yaml
 
 # md草稿
 draft/
